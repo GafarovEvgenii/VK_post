@@ -8,7 +8,7 @@ public class Post {
     private String text;
     private String imageAfisha;
     private String read;
-
+    private boolean favorite;
 
 }
 
